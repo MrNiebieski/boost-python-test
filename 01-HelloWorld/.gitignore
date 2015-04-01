@@ -1,0 +1,6 @@
+#cpp
+*.o
+*.so
+
+#python
+*.pyc
